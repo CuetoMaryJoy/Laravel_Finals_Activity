@@ -1,5 +1,4 @@
 Laravel Finals Activity
-
     My Laravel Personal Web Page
 
 NOTE:
