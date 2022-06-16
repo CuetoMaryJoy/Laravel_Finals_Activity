@@ -2,7 +2,7 @@
 
 <meta name="description" content="">
 
-<meta name="Mary Joy"content="Blade">
+<meta name="Mary Joy Cueto"content="Blade">
 
 <title>CUETO_Laravel_Finals_Activity</title>
 
