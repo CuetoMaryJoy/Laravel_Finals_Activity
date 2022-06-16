@@ -31,7 +31,7 @@ Route::get('/', function()
 
 });
 
-Route::get('/contact', function()
+Route::get('/about', function()
 
 {
 
